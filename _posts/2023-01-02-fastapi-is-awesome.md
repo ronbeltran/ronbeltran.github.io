@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "FastAPI Is Awesome"
-date: 2023-01-02T21:24:11+08:00
-tags: ["FastAPI", "Python"]
 ---
 
 I am having a really great experience with using the FastAPI web framework at my current project.

@@ -1,12 +1,8 @@
 ---
 layout: post
 title: "Remove duplicates from millions of records with Python Dedupe Library"
-date: 2022-08-08T11:00:17+08:00
-tags: ["python", "dedupe", "machine learning"]
 description: "This post describes the learnings I had when I built a pipeline that dedupelicate millions of database records.
              Find out how I designed it and maybe you can pick up some tips and apply it to your dedupe projects."
-images: ["images/python-logo.png"]
-image: "python-logo.png"
 ---
 
 Earlier this year 2022. I had the opportunity to solve an interesting problem in my previous employer.
